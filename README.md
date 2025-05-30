@@ -7,6 +7,9 @@ EcDashboard是一个简单的仪表盘组件，使用Vue 3+TypeScript+Tailwind C
 
 - 显示简单服务器状态（CPU 使用率、内存使用、储存空间、网络上下行流量）。
 
+![scr](https://github.com/user-attachments/assets/d053358a-e9d8-4d8b-8beb-845e297e08f3)
+
+
 
 
 ## 项目设置
